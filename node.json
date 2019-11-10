@@ -19,7 +19,8 @@
         "type": "select",
         "options": [
             ["classic", "Classic"],
-            ["spanish1", "Spanish"]
+            ["spanish1", "Spanish"],
+            ["polish_rev", "Polish"]
         ],
         "default": "classic"
     }, {

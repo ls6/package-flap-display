@@ -26,6 +26,15 @@ local styles = {
         width = 2040,
         height = 1200,
         steps = 8,
+    },
+    polish_rev = {
+        charset = ' AĄBCĆDEĘFGHIJKLŁMNŃOÓPQRSŚTUVWXYZŻŹ9876543210&@#?!/()\"\':=+-…,.',
+        texture = 'style_polish_rev',
+        rows = 15,
+        cols = 34,
+        width = 2040,
+        height = 1200,
+        steps = 8,
     }
 }
 
