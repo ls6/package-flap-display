@@ -28,7 +28,7 @@ local styles = {
         steps = 8,
     },
     polish_rev = {
-        charset = ' AĄBCĆDEĘFGHIJKLŁMNŃOÓPQRSŚTUVWXYZŻŹ9876543210&@#?!/()\"\':=+-…,.',
+        charset = ' aąbcćdeęfghijklłmnńoópqrsśtuvwxyzżź9876543210&@#?!/()\"\':=+-…,.',
         texture = 'style_polish_rev',
         rows = 15,
         cols = 34,
