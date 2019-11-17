@@ -29,7 +29,7 @@ local styles = {
     },
     polish_rev = {
         charset = ' aąbcćdeęfghijklłmnńoópqrsśtuvwxyzżź9876543210&@#?!/()\"\':=+-…,.',
-        texture = 'style_polish_rev',
+        texture = 'style_polish_rev.png',
         rows = 15,
         cols = 34,
         width = 2040,
